@@ -7,7 +7,7 @@ public class Fatorial {
         Scanner sc = new Scanner(System.in);
         int numero = sc.nextInt();
 
-        System.out.println("Fatorial de: " + numero + " é " + fatorial(numero));
+        System.out.println(fatorial(numero));
     }
 
     public static int fatorial(int numero) {

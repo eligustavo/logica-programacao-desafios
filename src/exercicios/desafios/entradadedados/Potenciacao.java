@@ -1,4 +1,5 @@
 package exercicios.desafios.entradadedados;
+
 import java.util.Scanner;
 
 public class Potenciacao {
@@ -12,14 +13,12 @@ public class Potenciacao {
         double d = Math.pow(digitado, 10);
 
         /**
-         * int digitado = sc.nextInt(); 
-         * int q = digitado * digitado; 
-         * int c = digitado * digitado * digitado; 
-         * int d = digitado * digitado * digitado * digitado *
+         * int digitado = sc.nextInt(); int q = digitado * digitado; int c = digitado *
+         * digitado * digitado; int d = digitado * digitado * digitado * digitado *
          * digitado * digitado * digitado * digitado * digitado * digitado;
          */
 
-         System.out.println("Inicio potenciação");
+        System.out.println("Inicio potenciação");
         System.out.println(q);
         System.out.println(c);
         System.out.println(d);

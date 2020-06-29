@@ -50,5 +50,6 @@ public class AumentoSalario {
             System.out.println("Em percentual: " + porc + "");
 
         }
+        sc.close();
     }
 }
