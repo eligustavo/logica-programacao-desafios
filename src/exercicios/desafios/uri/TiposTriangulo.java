@@ -52,5 +52,6 @@ public class TiposTriangulo {
             }
         }
         sc.close();
+
     }
 }
