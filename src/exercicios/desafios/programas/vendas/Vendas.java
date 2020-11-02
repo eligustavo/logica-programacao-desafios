@@ -11,7 +11,6 @@ public class Vendas {
         int opcao = 0;
         double venda;
         double valor;
-        
 
         while (opcao != 6) {
             System.out.println("Menu Inicial");
